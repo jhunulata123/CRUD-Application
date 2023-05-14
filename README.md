@@ -18,7 +18,7 @@
 #### Clone the repository to your local machine:
 -->https://github.com/jhunulata123/CRUD-Application
 #### Install the dependencies:
---> npm i axios body-parser dotenv ejs express mongoose margan nodemon 
+--> npm i axios body-parser dotenv ejs express mongoose margan nodemon  
 #### Start the application:
 -->npm start
 #### The application will now be accessible at [specify URL or port].
