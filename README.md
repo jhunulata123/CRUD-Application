@@ -12,7 +12,7 @@
 * CSS
 * Node.js & Express
 * MongoDB
-* ejs
+* EJS
 
 # Installation
 #### Clone the repository to your local machine:
