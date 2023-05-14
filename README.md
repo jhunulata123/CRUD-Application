@@ -16,9 +16,9 @@
 
 # Installation
 #### Clone the repository to your local machine:
--->
+-->https://github.com/jhunulata123/CRUD-Application
 #### Install the dependencies:
--->
+--> npm i axios body-parser dotenv ejs express mongoose margan nodemon 
 #### Start the application:
 -->npm start
 #### The application will now be accessible at [specify URL or port].
@@ -28,6 +28,8 @@
 
 # User Interface
 
+![crud1](https://github.com/jhunulata123/CRUD-Application/assets/120890878/8e10800d-a001-4beb-bbf1-27eeecca725c)
+![crud2](https://github.com/jhunulata123/CRUD-Application/assets/120890878/f82f513a-1331-42cd-87c3-fe733b67ddb2)
 
 
 
