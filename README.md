@@ -21,7 +21,7 @@
 --> npm i axios body-parser dotenv ejs express mongoose margan nodemon  
 #### Start the application:
 -->npm start
-#### The application will now be accessible at [specify URL or port].
+
 
 # Usage
 #### Once the application is running, you can access it by navigating to http://localhost:3000 in your web browser. From there, you can create, read, update, and delete the user data.
