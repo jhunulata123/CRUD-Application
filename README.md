@@ -25,6 +25,8 @@
 # Usage
 #### Once the application is running, you can access it by navigating to http://localhost:3000 in your web browser. From there, you can create, read, update, and delete the user data.
 
+#### The application will now be acessible at ->https://crud-jwmn.onrender.com
+
 # User Interface
 
 ![crud1](https://github.com/jhunulata123/CRUD-Application/assets/120890878/8e10800d-a001-4beb-bbf1-27eeecca725c)
